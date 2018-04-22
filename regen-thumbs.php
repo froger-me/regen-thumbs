@@ -21,9 +21,9 @@ if ( ! defined( 'REGEN_THUMBS_PLUGIN_URL' ) ) {
 	define( 'REGEN_THUMBS_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 }
 
-function regen_thumbs_on_save_run() {
+function regen_thumbs_run() {
 	require_once dirname( __FILE__ ) . '/inc/class-regen-thumbs.php';
 
 	$regen_thumbs = new Regen_Thumbs();
 }
-add_action( 'plugins_loaded', 'regen_thumbs_on_save_run', 10, 0 );
+add_action( 'plugins_loaded', 'regen_thumbs_run', 10, 0 );
