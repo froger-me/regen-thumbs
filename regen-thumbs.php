@@ -5,7 +5,7 @@ Plugin URI: https://froger.me/
 Description: Regenerate post thumbnails with a single click on the post edit screen.
 Version: 1.0
 Author: Alexandre Froger
-Author URI: https://froger.me
+Author URI: https://froger.me/
 Text Domain: regen-thumbs
 Domain Path: /languages
 WC tested up to: 3.3.4
