@@ -13,7 +13,6 @@ Regen. Thumbs - regenerate Wordpress post thumbnails per post in one click!
 == Description ==
 
 This plugin adds a button to the Wordpress post edit screen to regenerate all the thumbnails associated to the post using ajax.  
-Compatible with Woocommerce.
 
 == Installation ==
 
