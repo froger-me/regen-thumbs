@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Regen. Thumbs
-Plugin URI: https://froger.me/
+Plugin URI: https://github.com/froger-me/regen-thumbs
 Description: Regenerate post thumbnails with a single click on the post edit screen.
 Version: 1.0
 Author: Alexandre Froger
