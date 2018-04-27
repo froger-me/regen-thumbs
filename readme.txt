@@ -8,11 +8,11 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Regen. Thumbs - regenerate Wordpress post thumbnails per post in one click!
+Regen. Thumbs - regenerate WordPress post thumbnails per post in one click!
 
 == Description ==
 
-This plugin adds a button to the Wordpress post edit screen to regenerate all the thumbnails associated to the post using ajax.  
+This plugin adds a button to the WordPress post edit screen to regenerate all the thumbnails associated to the post using ajax.  
 
 == Installation ==
 
