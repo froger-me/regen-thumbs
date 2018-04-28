@@ -95,7 +95,7 @@ class Regen_Thumbs {
 	* Private methods
 	*******************************************************************/
 
-	private function _regen_thumb( $attachment_id ) {
+	private function _regen_thumb( $attachment_id ) {// @codingStandardsIgnoreLine
 		$fullsizepath = get_attached_file( $attachment_id );
 
 		if ( false !== $fullsizepath && file_exists( $fullsizepath ) ) {
